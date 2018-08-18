@@ -42,3 +42,7 @@
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
+
+.card-text {
+  font-size: 0.8rem;
+}
