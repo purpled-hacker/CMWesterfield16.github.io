@@ -1,4 +1,4 @@
-Caitlin Westerfield's Personal Website
+Caitlin Westerfield's Personal Website: http://caitlinwesterfield.com/
 
 Starting Template: Start Bootstrap - Resume (https://startbootstrap.com/template-overviews/resume/)
 
